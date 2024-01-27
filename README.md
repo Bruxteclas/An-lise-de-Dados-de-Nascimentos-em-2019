@@ -33,4 +33,3 @@ Primeiramente, carregamos o arquivo CSV em um DataFrame usando a biblioteca Pand
 
 Neste exercício, exploramos diversas análises de dados a partir do arquivo "SINASC_RO_2019.csv". Realizamos análises de idade das mães e dos pais, análise de aniversários e escolaridade das mães e identificamos um município com base no maior número de nascimentos em março. Em seguida, calculamos e visualizamos médias de filhos vivos e idades dos pais. Essas análises podem fornecer informações valiosas para entender tendências e características do conjunto de dados de nascimentos em 2019.
 
-Prof, boa tarde! O senhor poderia me indicar um ebook ou apostila para suporte as aulas que estão ministrando, contendo todos os assuntos passados? Na plataforma tem os pdf, porém, tem algumas aulas, incluindo elas que os arquivos de suportes estão em arquivos ipynb e ñ em pdfs ou slides
